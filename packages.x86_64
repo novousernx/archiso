@@ -168,4 +168,7 @@ nano
 lshw
 base-devel
 devtools
-
+unzip
+unrar
+p7zip
+xarchiver
